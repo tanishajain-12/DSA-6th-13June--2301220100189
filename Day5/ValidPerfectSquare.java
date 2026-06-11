@@ -1,4 +1,4 @@
-package Day5;
+
 
 public class ValidPerfectSquare {
     public boolean isPerfectSquare(int num) {

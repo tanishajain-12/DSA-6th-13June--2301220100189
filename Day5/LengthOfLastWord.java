@@ -1,4 +1,3 @@
-package Day5;
 
 public class LengthOfLastWord {
     public int lengthOfLastWord(String s) {
